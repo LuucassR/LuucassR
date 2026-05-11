@@ -16,8 +16,8 @@
 *Building digital products where clean architecture meets exceptional UX*
 
 [![Email](https://img.shields.io/badge/lucassrossi12@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucassrossi12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rossi-052926389/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://luucassr.github.io/portfolio/)
 
 </div>
 
@@ -96,7 +96,7 @@ Currently working as a **Digital Forensics Specialist**, applying the same preci
 
 ## 🚀 Featured Projects
 
-### [YaMayorista — Wholesale E-Commerce Platform](https://github.com)
+### [YaMayorista — Wholesale E-Commerce Platform](https://yamayorista.online/)
 > `React` `TypeScript` `Supabase` `Prisma` `PostgreSQL` `Vercel` `Resend`
 
 Production-ready wholesale e-commerce platform handling multi-category product catalogs (food, beverages, dairy) with real-time inventory management.
@@ -107,7 +107,7 @@ Production-ready wholesale e-commerce platform handling multi-category product c
 
 ---
 
-### [CryptoPulse — Real-Time Crypto Tracking API](https://github.com)
+### [CryptoPulse — Real-Time Crypto Tracking API](https://fastapi-cryptopulse.vercel.app/)
 > `FastAPI` `Python` `REST APIs` `JWT` `SQLAlchemy`
 
 High-performance API for real-time cryptocurrency tracking and live data visualization.
