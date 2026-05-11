@@ -129,14 +129,15 @@ High-performance API for real-time cryptocurrency tracking and live data visuali
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuucassR&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuucassR&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
+<a href="https://github.com/LuucassR">
+  <img src="https://streak-stats.demolab.com?user=LuucassR&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</a>
+<br/><br/>
+<a href="https://github.com/LuucassR">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuucassR&theme=github_dark" alt="Lucas's GitHub Activity" />
+</a>
 </div>
 
 ---
