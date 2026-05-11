@@ -127,20 +127,6 @@ High-performance API for real-time cryptocurrency tracking and live data visuali
 | 🗄️ CS50 SQL | Harvard / edX | Databases & SQL |
 | 🏛️ Information Systems Engineering | UTN Argentina | 2 years completed |
 
----
-
-📊 GitHub Stats
-<div align="center">
-<a href="https://github.com/LuucassR">
-  <img src="https://streak-stats.demolab.com?user=LuucassR&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</a>
-<br/><br/>
-<a href="https://github.com/LuucassR">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuucassR&theme=github_dark" alt="Lucas's GitHub Activity" />
-</a>
-</div>
-
----
 
 <div align="center">
 
