@@ -107,14 +107,15 @@ Production-ready wholesale e-commerce platform handling multi-category product c
 
 ---
 
-### [CryptoPulse — Real-Time Crypto Tracking API](https://fastapi-cryptopulse.vercel.app/)
-> `FastAPI` `Python` `REST APIs` `JWT` `SQLAlchemy`
+### [JCRossi Automotores — Dealership Website]([https://fastapi-cryptopulse.vercel.app/](https://jcrossiautomotores.vercel.app/))
+> `Next.js` `Postgres` `REST TaalwindCSS` `Typescript` `AWS (RDS, S3, SDK)`
 
-High-performance API for real-time cryptocurrency tracking and live data visualization.
+Designed and deployed a production car dealership website featuring a dynamic vehicle catalog with individual listing pages
 
-- Designed asynchronous RESTful endpoints to optimize response times and data throughput
-- Integrated external financial data streams for live dashboards
-- Secure JWT-based authentication layer
+- Built a contact and inquiry system with vehicle-specific selection, enabling direct client-to-dealer communication and driving
+measurable engagement (500+ satisfied clients listed on-site).
+- Architected the full frontend with Next.js dynamic routing for SEO-optimized individual vehicle pages, deployed on Vercel with
+zero-downtime updates.
 
 ---
 
