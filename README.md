@@ -108,7 +108,7 @@ Production-ready wholesale e-commerce platform handling multi-category product c
 ---
 
 ### [JCRossi Automotores — Dealership Website]([https://fastapi-cryptopulse.vercel.app/](https://jcrossiautomotores.vercel.app/))
-> `Next.js` `Postgres` `REST TaalwindCSS` `Typescript` `AWS (RDS, S3, SDK)`
+> `Next.js` `Postgres` `TaalwindCSS` `Typescript` `AWS (RDS, S3, SDK)`
 
 Designed and deployed a production car dealership website featuring a dynamic vehicle catalog with individual listing pages
 
